@@ -15,3 +15,6 @@ all new metaverse coding, creating, and change lifestyle.
   
   [original code](https://github.com/NknightA/varius-website)
   
+# OSDN page link(Ja-Jp)
+
+> https://osdn.net/projects/projectv/
