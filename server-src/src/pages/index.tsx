@@ -21,6 +21,7 @@ export default function Index () {
                     <Box display='inline-block' textSize={22}>
                         <p>VARIUS is development of Metaverse and Web3 library and Platform</p>
                         <Box w={400} h={400} bgColor={'#fff'} display='flex' jc='center' ai='center'>仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮仮</Box>
+                        <Image src="/image_4.png" alt="me" width="64" height="64" />
                     </Box>
                 </IndexBox>
                 <IndexBox>
