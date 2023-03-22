@@ -1,0 +1,5 @@
+@types/express @types/node @types/react @types/react-dom
+
+eslint eslint-config-next
+
+next react react-dom typescript
