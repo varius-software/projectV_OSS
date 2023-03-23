@@ -12,9 +12,3 @@ all new metaverse coding, creating, and change lifestyle.
   __Development of APIs to facilitate the transfer of applications from existing platforms.__
   
   __Creation of tools for developers and creators to further utilize "V"__
-  
-  [original code](https://github.com/NknightA/varius-website)
-  
-# OSDN page link(Ja-Jp)
-
-> https://osdn.net/projects/projectv/
