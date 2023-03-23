@@ -2,8 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 //import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
-
-//const inter = Inter({ subsets: ['latin'] })
+import Returnstatus from "@/status/store";
 
 export default function Home() {
   return (
@@ -23,6 +22,7 @@ export default function Home() {
                 height={500}
                 priority
               />
+          <Returnstatus key={1}/>
 			<p>insert code is : {'  {process.env.NODE_ENV}'}.</p>
 			<p>How to insert code is edit index.tsx</p>
       </main>
