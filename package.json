@@ -1,0 +1,11 @@
+{
+  "name": "V",
+  "version": "0.4.34",
+  "main": "index.js",
+  "scripts": {
+	"dev": "yarn run dev -prefix server-src"
+  },
+  "repository": "nknight@git.osdn.net:/gitroot/projectv/main.git",
+  "author": "NknightA <n.knight.pc0627@gmail.com>",
+  "license": "MIT"
+}
