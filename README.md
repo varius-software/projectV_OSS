@@ -20,6 +20,5 @@ all new metaverse coding, creating, and change lifestyle.
 > https://osdn.net/projects/projectv/
 
 ### hosting by
-![OSDN_logo_real-rgb](https://user-images.githubusercontent.com/88763245/227474595-cc28e97c-801e-4b64-a64a-aef77c2ad6b9.svg)
+![osdn_logo](https://user-images.githubusercontent.com/88763245/227475348-36363766-dd2b-4475-b4e7-7ac410c0fb61.png)
 
-qqqq
