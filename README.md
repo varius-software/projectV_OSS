@@ -13,6 +13,9 @@ all new metaverse coding, creating, and change lifestyle.
   
   __Creation of tools for developers and creators to further utilize "V"__
 
+# Docs README links
+[DOCS README](https://github.com/nknighta/V/tree/main/docs#v-docs-markdown-readme)
+
 # OSDN repo
 
 > https://osdn.net/projects/projectv/
