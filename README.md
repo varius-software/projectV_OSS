@@ -14,7 +14,7 @@ all new metaverse coding, creating, and change lifestyle.
   __Creation of tools for developers and creators to further utilize "V"__
   
   [original code](https://github.com/NknightA/varius-website)
-  
-# OSDN page link(Ja-Jp)
+
+# github repo.
 
 > https://osdn.net/projects/projectv/
