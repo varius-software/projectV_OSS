@@ -13,7 +13,7 @@ all new metaverse coding, creating, and change lifestyle.
   
   __Creation of tools for developers and creators to further utilize "V"__
 
-# OSDN repo.
+# OSDN repo
 
 > https://osdn.net/projects/projectv/
 
