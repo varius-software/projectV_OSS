@@ -12,9 +12,14 @@ all new metaverse coding, creating, and change lifestyle.
   __Development of APIs to facilitate the transfer of applications from existing platforms.__
   
   __Creation of tools for developers and creators to further utilize "V"__
-  
-  [original code](https://github.com/NknightA/varius-website)
 
-# github repo.
+# Docs README links
+[DOCS README](https://github.com/nknighta/V/tree/main/docs#v-docs-markdown-readme)
+
+# OSDN repo
 
 > https://osdn.net/projects/projectv/
+
+### hosting by
+![image](https://user-images.githubusercontent.com/88763245/227477885-85f92eb1-e6d0-4713-bd7b-d9dcce34085f.png)
+![osdn_logo](https://user-images.githubusercontent.com/88763245/227475348-36363766-dd2b-4475-b4e7-7ac410c0fb61.png)
