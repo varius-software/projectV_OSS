@@ -1,0 +1,19 @@
+{
+  "name": "v",
+  "version": "1.0.0",
+  "description": "all new metaverse coding, creating, and change lifestyle.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server:start": "npm run dev --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "server"
+  ]
+}

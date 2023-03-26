@@ -1,6 +1,6 @@
 {
   "name": "v2",
-  "version": "0.1.0",
+  "version": "0.4.40",
   "private": true,
   "scripts": {
     "dev": "tsc -p tsconfig.server.json && cross-env NODE_ENV=development node ./dist/server/server.js",
@@ -24,5 +24,9 @@
     "cross-env": "^7.0.3",
     "express": "^4.18.2",
     "nodemon": "^2.0.21"
-  }
+  },
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

@@ -59,7 +59,7 @@ var handle = app.getRequestHandler();
                     return handle(req, res);
                 });
                 server.listen(port, function () {
-                    console.log("".concat(port, "\u3067\u8D77\u52D5\u4E2D"));
+                    console.log("http://localhost:".concat(port, "   \u0D9E\u0D9E\u0DA9"));
                 });
                 return [3 /*break*/, 3];
             case 2:

@@ -14,7 +14,7 @@ const handle = app.getRequestHandler();
             return handle(req, res);
         });
         server.listen(port, () => {
-            console.log(`${port}で起動中`);
+            console.log(`http://localhost:${port}   ඞඞඩ`);
         });
     } catch (e) {
         console.error(e);
