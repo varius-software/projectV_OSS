@@ -6,7 +6,6 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {},
   "scripts": {
     "server:start": "npm run dev --prefix server"
   },
@@ -15,5 +14,8 @@
   "license": "ISC",
   "workspaces": [
     "server"
-  ]
+  ],
+  "devDependencies": {
+    "@types/pg": "^8.6.6"
+  }
 }
