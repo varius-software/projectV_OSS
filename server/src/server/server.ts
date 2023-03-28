@@ -1,8 +1,8 @@
 import express, { Request, Response } from "express";
 import next from "next";
 
-const dev = process.env.NODE_ENV === "development";
-const port = 4100;
+const dev = process.env.NODE_ENV === "production";
+const port = "https://variussoftware.com";
 const app = next({ dev });
 const handle = app.getRequestHandler();
 
@@ -14,7 +14,7 @@ const handle = app.getRequestHandler();
             return handle(req, res);
         });
         server.listen(port, () => {
-            console.log(`http://localhost:${port}   ඞඞඩ`);
+            console.log(`running https://variussoftware.com`);
         });
     } catch (e) {
         console.error(e);
