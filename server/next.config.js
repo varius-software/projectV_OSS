@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+/*const nextConfig = {
   reactStrictMode: true,
 	...import(`./config/${process.env.APP_ENV || 'local'}`.json)
 }
 
-module.exports = nextConfig
+module.exports = nextConfig*/

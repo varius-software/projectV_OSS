@@ -7,7 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "server:start": "npm run dev --prefix server"
+    "server:start": "npm run dev --prefix server",
+    "server:build": "npm run build --prefix server",
+    "server:pre-build": "npm run pre-build --prefix server"
   },
   "keywords": [],
   "author": "",
