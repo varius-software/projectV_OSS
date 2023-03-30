@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "tsc -p tsconfig.server.json && cross-env NODE_ENV=development node ./dist/server/server.js",
     "pre-build": "tsc -p tsconfig.server.json",
-    "build": "(if exist dist rd dist /s /q) && webpack --mode development"
+    "build": "(if exist dist rd dist /s /q) && webpack --mode development --stats-children"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",

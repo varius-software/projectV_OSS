@@ -12,7 +12,7 @@
     "server:pre-build": "npm run pre-build --prefix server"
   },
   "keywords": [],
-  "author": "",
+  "author": "nknight amamiya <nknight.works@variussoftware.com>",
   "license": "ISC",
   "workspaces": [
     "server"
