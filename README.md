@@ -1,5 +1,7 @@
-# V
+# V (New API)
 all new metaverse coding, creating, and change lifestyle.
+> File and API system heavily modified version.
+> Version Number v0.4.47_Canary_sub1/build:00001
 
 ## What's this?
  - App API

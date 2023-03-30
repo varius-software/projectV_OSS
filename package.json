@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "nknight amamiya <nknight.works@variussoftware.com>",
-  "license": "ISC",
+  "license": "MIT",
   "workspaces": [
     "server"
   ],
@@ -23,3 +23,4 @@
     "webpack-cli": "^5.0.1"
   }
 }
+ 
