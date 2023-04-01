@@ -1,6 +1,6 @@
 {
   "name": "v",
-  "version": "0.4.46",
+  "version": "0.4.67",
   "description": "all new metaverse coding, creating, and change lifestyle.",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,7 @@
   "author": "nknight amamiya <nknight.works@variussoftware.com>",
   "license": "MIT",
   "workspaces": [
-    "server"
+    "/server/*"
   ],
   "devDependencies": {
     "@types/pg": "^8.6.6",
