@@ -35,6 +35,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
+<<<<<<< HEAD
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -42,6 +43,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = __importDefault(require("express"));
 var next_1 = __importDefault(require("next"));
 var cgi_express_1 = __importDefault(require("cgi-express"));
+=======
+Object.defineProperty(exports, "__esModule", { value: true });
+var express_1 = require("express");
+var next_1 = require("next");
+var cgi_express_1 = require("cgi-express");
+>>>>>>> 3d6934ece3c932a823d57c986a6177820c87317c
 var dev = process.env.NODE_ENV === "production";
 var port = "https://variussoftware.com";
 var app = (0, next_1.default)({ dev: dev });
