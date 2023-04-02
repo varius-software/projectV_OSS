@@ -1,8 +1,8 @@
 import express, { Request, Response } from "express";
 import next from "next";
-import cgiExpress from "cgi-express";
+//import cgiExpress from "cgi-express";
 const dev = process.env.NODE_ENV === "production";
-const port = "https://variussoftware.com";
+const port = "4100";
 const app = next({ dev });
 const handle = app.getRequestHandler();
 
@@ -14,8 +14,8 @@ const handle = app.getRequestHandler();
             return handle(req, res);
         });
         server.listen(port, () => {
-            console.log(`running https://variussoftware.com`);
-            cgiExpress.execute(server);
+            console.log(`running http://localhost:${port}`);
+            //cgiExpress.execute(server);
         });
     } catch (e) {
         console.error(e);
