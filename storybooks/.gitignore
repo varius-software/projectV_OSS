@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 node_modules/
+<<<<<<< HEAD
 .storybook/
 =======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -39,3 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 >>>>>>> 6b012692847da995eaeb27b9c901701397768d3c
+=======
+>>>>>>> 6b85a0c4214fd9311c23b0f7d24b582be62d4690
