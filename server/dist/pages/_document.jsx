@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var document_1 = require("next/document");
+const document_1 = require("next/document");
 function Document() {
     return (<document_1.Html lang="en">
         <document_1.Head>

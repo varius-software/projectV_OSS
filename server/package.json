@@ -1,18 +1,11 @@
 {
   "name": "v",
-  "version": "0.4.47",
+  "version": "0.4.72",
   "private": true,
   "scripts": {
     "dev": "tsc -p tsconfig.server.json && cross-env NODE_ENV=development node ./dist/server/server.js",
     "pre-build": "tsc -p tsconfig.server.json",
-<<<<<<< HEAD
-    "build": "webpack"
-=======
-    "build": "webpack --mode=production --node-env=production",
-    "build:dev": "webpack --mode=development",
-    "build:prod": "webpack --mode=production --node-env=production",
-    "watch": "webpack --watch"
->>>>>>> 3d6934ece3c932a823d57c986a6177820c87317c
+    "dev_next": "cross-env NODE_ENV=development && npx ts-node ./src/server/server.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
@@ -27,7 +20,8 @@
     "next": "^13.2.4",
     "pg": "^8.10.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@webpack-cli/generators": "^3.0.1",

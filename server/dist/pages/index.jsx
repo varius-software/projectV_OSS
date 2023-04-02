@@ -3,13 +3,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var head_1 = __importDefault(require("next/head"));
-var image_1 = __importDefault(require("next/image"));
-var Home_module_css_1 = __importDefault(require("@/styles/Home.module.css"));
-var home_module_sass_1 = __importDefault(require("../styles/home.module.sass"));
-var account_1 = __importDefault(require("@/pages/account"));
+const head_1 = __importDefault(require("next/head"));
+const image_1 = __importDefault(require("next/image"));
+const Home_module_css_1 = __importDefault(require("@/styles/Home.module.css"));
+const home_module_sass_1 = __importDefault(require("../styles/home.module.sass"));
+const account_1 = __importDefault(require("@/pages/account"));
 function Home() {
-    var Devmode = function () {
+    const Devmode = () => {
         if (process.env.NODE_ENV === "development") {
             return (<p> development mode </p>);
         }
