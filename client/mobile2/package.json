@@ -1,6 +1,6 @@
 {
-  "name": "projectv-client-mobile-src",
-  "version": "1.0.0",
+  "name": "v",
+  "version": "0.4.7",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
