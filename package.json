@@ -1,20 +1,16 @@
 {
   "name": "v",
-<<<<<<< HEAD
   "version": "0.4.46",
   "description": "all new metaverse coding, creating, and change lifestyle.",
   "main": "index.js",
-=======
   "version": "0.4.36",
   "private": "true",
   "description": "all new metaverse coding, creating, and change lifestyle.",
   "main": "main.js",
->>>>>>> 6b85a0c4214fd9311c23b0f7d24b582be62d4690
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-<<<<<<< HEAD
     "server:start": "npm run dev --prefix server",
     "server:build": "npm run build --prefix server",
     "server:pre-build": "npm run pre-build --prefix server"
@@ -31,8 +27,6 @@
     "webpack-cli": "^5.0.1"
   }
 }
- 
-=======
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -42,4 +36,3 @@
     "pacakages/server"
   ]
 }
->>>>>>> 6b85a0c4214fd9311c23b0f7d24b582be62d4690
