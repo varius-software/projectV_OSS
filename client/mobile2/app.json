@@ -2,14 +2,14 @@
   "expo": {
     "name": "projectv-client-mobile-src",
     "slug": "projectv-client-mobile-src",
-    "version": "1.0.0",
+    "version": "0.4.7",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/v1_icon_beta.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/v1_icon_beta.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000021"
     },
     "assetBundlePatterns": [
       "**/*"
