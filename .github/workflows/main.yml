@@ -22,5 +22,5 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm run server:pre-build
-      - run: npm run server:start
+      - run: npm run pre-build
+      - run: npm run dev
