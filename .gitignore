@@ -1,6 +1,8 @@
-.idea/
-<<<<<<< HEAD
+# directories
 node_modules/
-=======
-node_modules/
->>>>>>> 6b85a0c4214fd9311c23b0f7d24b582be62d4690
+dist/
+.next/
+bat/
+
+# files
+*.bat
