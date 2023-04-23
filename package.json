@@ -31,8 +31,7 @@
     "react-dom": "^18.2.0",
     "sass": "^1.57.1",
     "styled-components": "^5.3.9",
-    "ts-node": "^10.9.1",
-    "varius-next-components": "^0.1.0"
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20",

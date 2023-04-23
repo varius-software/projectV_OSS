@@ -6,3 +6,6 @@ bat/
 
 # files
 *.bat
+*.log
+*-lock.json
+*.lock
