@@ -1,4 +1,4 @@
-# V (Benchmark running speed)
+# Welcome
 all new metaverse coding, creating, and change lifestyle.
 > File and API system heavily modified version.
 > Version Number v0.4.47_Canary_sub1/build:00001
@@ -25,3 +25,22 @@ all new metaverse coding, creating, and change lifestyle.
 ### hosting by
 ![image](https://user-images.githubusercontent.com/88763245/227477885-85f92eb1-e6d0-4713-bd7b-d9dcce34085f.png)
 ![osdn_logo](https://user-images.githubusercontent.com/88763245/227475348-36363766-dd2b-4475-b4e7-7ac410c0fb61.png)
+
+# Project Funders & Developers Wanted
+
+The projectV and VARIUS development teams are looking for people to help fund the operations and development of open source projects.
+
+# PJ Contact
+For development, team participation, etc., please contact us at the following address.
+
+## Discord
+Owner ID - ``NknightA#7048``
+
+## twitter
+[Nknight AMAMIYA(JP)](https://twitter.com/ama_dev_1)
+
+## Github
+[Owner_NknightA(JP/EN)](https://github.com/nknighta)
+
+## Other
+[OSDN_Account(JP/EN)](https://osdn.net/users/nknight/)
