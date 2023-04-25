@@ -2,7 +2,11 @@ import { Html, Head, Main, NextScript } from 'next/document'
 //import style from './docs.module.sass'
 import version from '../../package.json'
 import Link from "next/link";
+import {useState} from "react";
 export default function Document({ title = "| project V", description = "This is Photo Application!!!!" }) {
+    const [date]= useState({
+        date: new Date().getFullYear(),
+    });
     return (
         <Html>
             <Head/>
@@ -37,7 +41,7 @@ export default function Document({ title = "| project V", description = "This is
             </div>
             <header>
             </header>
-            <body>
+            <body style={{backgroundColor: "#000",color: "#fff"}}>
             <Main />
             <NextScript />
             <div style={{
@@ -49,7 +53,7 @@ export default function Document({ title = "| project V", description = "This is
                     display: "flex",
                     justifyContent: "center",
                     alignItems: "center"}}>
-                    <p>@ 2023 - VARIUS dev team / Nknight AMAMIYA</p>
+                    <p>@ 2023 - {date.date} - VARIUS dev team / Nknight AMAMIYA</p>
                 </div>
                 <br/>
                 <div style={{

@@ -8,10 +8,10 @@ const HMeta = ({
                  pageImgWidth,
                  pageImgHeight
              }:any) => {
-    const defaultTitle = 'V'
+    const defaultTitle = 'VARIUS'
     const defaultDescription = 'demo'
 
-    const title = pageTitle ? `${pageTitle} | ${defaultTitle}` : defaultTitle
+    const title = pageTitle ? `${pageTitle} - ${defaultTitle}` : defaultTitle
     const description = pageDescription ? pageDescription : defaultDescription
     const url = pagePath
     const imgUrl = pageImg
